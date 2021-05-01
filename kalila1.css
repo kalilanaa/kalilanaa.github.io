@@ -1,0 +1,32 @@
+ table,
+      th,td {
+        padding: 10px;
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+th,td {
+  padding: 15px;
+  font-size: 120%;
+} 
+p {
+	font-size: 110%;
+}
+th {
+	background-color:lightpink;
+	color:darkslategrey;
+}
+td {
+	background-color:palevioletred;
+	color:floralwhite;
+}
+.photo {
+	width: 220px;
+}
+h1 {
+	text-align:center;
+	color:rosybrown;
+}
+body {
+	background-color: plum;
+	font-family: arial;
+	}
