@@ -1,7 +1,7 @@
 {
     padding:0;
     margin:0;
-    font-family: sans-serif;
+    font-family: monospace;
 }
 a{
     color: inherit ;
@@ -9,11 +9,11 @@ a{
 }
 .medsos{
     padding:5px 0;
-    background-color: rgb(29, 206, 206)
+    background-color: lightpink(29, 206, 206)
 }
 .medsos ul li {
     display: inline-block;
-    color: beige;
+    color: floralwhite;
     margin-right: 10px;
 }
 .container {
@@ -28,7 +28,7 @@ a{
 header h1{
     float: left;
     padding:15px 0px;
-    color: rgb(31, 224, 144);
+    color: lightpink(31, 224, 144);
 }
 header ul{
     float: right;
@@ -41,11 +41,11 @@ header ul li a {
     display: inline-block;
 }
 header ul li a:hover {
-    background-color:rgba(76, 0, 255, 0.87);
+    background-color:light pink(76, 0, 255, 0.87);
     color: ivory;
 }
 .active{
-    background-color:rgba(76, 0, 255, 0.87);
+    background-color:lightpink(76, 0, 255, 0.87);
     color: ivory;
 }
 .banner{
@@ -67,10 +67,10 @@ header ul li a:hover {
     bottom:0px;
 }
 .banner h2{
-    color:white;
+    color:floralwhite;
     z-index: 5;
     padding:20px 25px ;
-    border: 3px solid white;
+    border: 3px solid floralwhite;
 }
 section{
     padding: 50px 0;
@@ -95,22 +95,22 @@ table {
 section h3{
     text-align: center;
     padding: 120px 0;
-    color: black;
+    color: darkslategrey;
     margin-bottom: 20px ;
 }
 .about{
-    color: green;
+    color: pink;
     line-height: 25px;
 }
 footer{
     padding: 30px 0;
-    background-color:rgb(31, 224, 144);
-    color: white;
+    background-color:lightpink(31, 224, 144);
+    color: floralwhite;
     text-align: center;
 }
 .label{
-    background-color: mint;
-    color: white;
+    background-color: palevioletred;
+    color: floralwhite;
 }
 .gallery{
     margin: 5px;
