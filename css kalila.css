@@ -9,7 +9,7 @@ a{
 }
 .medsos{
     padding:5px 0;
-    background-color: sienna(29, 206, 206)
+    background-color: lightpink(29, 206, 206)
 }
 .medsos ul li {
     display: inline-block;
